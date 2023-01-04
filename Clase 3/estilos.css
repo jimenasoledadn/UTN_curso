@@ -1,0 +1,31 @@
+/* Comentarios en CSS*/
+/* SELECTORES: */
+/* Selector por Etiqueta*/
+/*    a TODOS los <p> les asigna las mismas propiedades definidas*/
+body{
+    background-color: rgb(255, 127, 80, 0.2);
+}
+h1{
+    color:cadetblue;
+    background-color: rgb(127, 255, 212, 0.1);
+}
+
+p{
+    color:rgb(7, 0, 100);
+}
+
+button{
+    background-color: pink;
+}
+
+/* Selectores de Clase */
+
+.textoVerde{
+    color: green;
+}
+
+/* Selectores por Id*/
+
+#textoAzul{
+    background-color: orange;
+}
